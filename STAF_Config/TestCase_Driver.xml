@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TestCases>
+	<Scenario Name="App_TC_01.py" Value="Yes"/>
+	<Scenario Name="App_TC_02.py" Value="No"/>
+	<Scenario Name="App_TC_01.py" Value="Yes"/>
+	<Scenario Name="App_TC_03.py" Value="No"/>
+</TestCases>
