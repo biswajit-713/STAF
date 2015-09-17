@@ -1,0 +1,3 @@
+www.facebook.com:HSTS	0	16682	1456885008035,1,0
+services.addons.mozilla.org:HSTS	0	16682	1472869598307,1,0
+blocklist.addons.mozilla.org:HSTS	0	16682	1472869710692,1,0
